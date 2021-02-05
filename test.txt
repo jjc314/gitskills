@@ -3,3 +3,12 @@ touch test.txt
 Git is free software ....  
 
 git leargit
+
+
+
+xxxxx
+xx
+x
+x
+x
+
