@@ -1,2 +1,0 @@
-touch test.txt
-git leargit
